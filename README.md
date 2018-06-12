@@ -86,7 +86,7 @@ Create the following services:
 * [**Watson Natural Language Understanding**](https://console.bluemix.net/catalog/services/natural-language-understanding)
 * [**Watson Knowledge Studio**](https://console.bluemix.net/catalog/services/knowledge-studio)
 
-> NOTE: It is recommended that you name your NLU service `sms-nlu-service`. This will eliminate some steps if you eventually decide to deploy your app to the IBM Cloud. 
+> NOTE: It is recommended that you name your NLU service `sms_nlu_service`. This will eliminate some steps if you eventually decide to deploy your app to the IBM Cloud. 
 
 ## 3. Create a Watson Knowledge Studio workspace
 
